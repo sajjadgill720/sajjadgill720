@@ -96,7 +96,7 @@ An application in development to help gym owners understand attendance and membe
 
 ## How I build
 
-<img src="./assets/build-process.svg" width="100%" alt="My process: Understand people's needs, design a focused solution, build across the stack, and improve through testing and feedback." />
+<img src="./assets/build-process-beige.svg" width="100%" alt="My process: Understand people's needs, design a focused solution, build across the stack, and improve through testing and feedback." />
 
 I start with the people facing a problem and define what a useful outcome looks like. Then I break the work into clear decisions, connect the interface with the backend and data, and use measurements and feedback to improve the result.
 
