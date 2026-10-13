@@ -2,7 +2,8 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Sajjad Ur Rehman. Building software that makes everyday work easier." />
 
-<a href="https://github.com/sajjadgill720"><img src="./assets/profile-highlight.svg" width="600" alt="sajjadgill · Product builder" /></a>
+<h2>sajjadgill</h2>
+<p>Product builder</p>
 <p>Full stack development &nbsp; · &nbsp; Automation &nbsp; · &nbsp; Applied AI</p>
 
 <a href="https://github.com/sajjadgill720?tab=repositories">Explore my work</a> &nbsp; · &nbsp;
