@@ -2,8 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Sajjad Ur Rehman. Building software that makes everyday work easier." />
 
-<h1>Sajjad Ur Rehman</h1>
-<p>Computer Science at NUST · Class of 2027 · Islamabad, Pakistan</p>
+<a href="https://github.com/sajjadgill720"><img src="./assets/profile-highlight.svg" width="600" alt="sajjadgill · Product builder" /></a>
 <p>Full stack development &nbsp; · &nbsp; Automation &nbsp; · &nbsp; Applied AI</p>
 
 <a href="https://github.com/sajjadgill720?tab=repositories">Explore my work</a> &nbsp; · &nbsp;
